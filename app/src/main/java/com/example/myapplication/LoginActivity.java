@@ -36,7 +36,7 @@ public class LoginActivity extends AppCompatActivity {
                     finish();
                 } else {
                     Toast.makeText(LoginActivity.this, "Login Gagal!", Toast.LENGTH_SHORT).show();
-                }
+                } 
             }
         });
     }
